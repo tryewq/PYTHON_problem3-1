@@ -20,5 +20,5 @@ def least3(e):
         m = y-f 
         error = np.linalg.norm(m)
         
-    print('Coefficients of the polynomial: ',fit) 
+    print('The Coefficients of the best polynomial fit: ',fit) 
 
